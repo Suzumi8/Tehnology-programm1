@@ -4,4 +4,9 @@ project(lab1)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(laba1
-        main.cpp)
+        main.cpp
+        Base.h
+        Date.h
+        Date.cpp
+        FamilyMember.h
+        FamilyMember.cpp)
