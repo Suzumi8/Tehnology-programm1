@@ -9,4 +9,6 @@ add_executable(laba1
         Date.h
         Date.cpp
         FamilyMember.h
-        FamilyMember.cpp)
+        FamilyMember.cpp
+        Keeper.h
+        Keeper.cpp)
